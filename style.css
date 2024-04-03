@@ -66,11 +66,12 @@
     text-align: center;
 }
 
-#navbarSupportedContent > ul.navbar-nav > li > a.nav-link {
-    color: #fff;
-    text-decoration: none;
+.navbarScroll{
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
-.navbarScroll{
-    background-color: #000000;
+.container-content{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.2);
 }
